@@ -1,0 +1,42 @@
+.navbar{
+height: 96px;
+}
+
+
+.nav-ul{
+    width: 300px;
+    list-style-type: none;
+    display: flex;
+    margin-left: 80px;
+    margin-top: -28px;
+    justify-content: space-evenly;
+    color: #939CAA;
+}
+
+
+
+.button1{
+    width: 150px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    margin-left: 800px;
+    margin-top: -52px;
+    background-color: orange;
+}
+
+.button1:hover{
+    width: 150px;
+    border: solid 1px orange;
+    color: orange;
+    font-size: 18px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    margin-left: 800px;
+    margin-top: -52px;
+    background-color: white;
+}
